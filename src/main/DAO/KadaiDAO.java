@@ -72,5 +72,4 @@ public class KadaiDAO extends Conn implements Serializable{
 	}
 	
 	
-		
 }
